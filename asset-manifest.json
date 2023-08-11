@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/audio-useRef/static/css/main.6dd7ba3f.css",
+    "main.js": "/audio-useRef/static/js/main.f4732dee.js",
+    "static/media/Justin Bieber - Baby (acoustic).mp3": "/audio-useRef/static/media/Justin Bieber - Baby (acoustic).01e4f3c9cff7ba9ed672.mp3",
+    "index.html": "/audio-useRef/index.html",
+    "main.6dd7ba3f.css.map": "/audio-useRef/static/css/main.6dd7ba3f.css.map",
+    "main.f4732dee.js.map": "/audio-useRef/static/js/main.f4732dee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dd7ba3f.css",
+    "static/js/main.f4732dee.js"
+  ]
+}
